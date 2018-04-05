@@ -8,7 +8,7 @@ This contains the algorithms modeled for my linked in post [“Executive Introdu
 Based on the nature of the field equipment and business needs, different forecasting methods can be used. For this example, I used a data set including equipment with 100 sensors and 3 different readings each and modeled 3 algorithms with Python, which you can find in the scripts folder - and the datasets are accesible in the data folder. 
 
 
-- Remaining Usufull Life. Regression algorithms were used to forecast the remaining usefull life.
+- Remaining Usefull Life. Regression algorithms were used to forecast the remaining usefull life.
 - Forecast over Window 2. Classification algorithms were used to forecast failure in Window 1. 
 - Forecast for Window 1 and Window2. A Multi-classification algorithm was used to forecast miltiple classes - Window 1 and window 2.
 - Libraries.py: Withing the scripts folder, the libraries.py script contains all the funcitions used to Get data, wrangle data, feature engineering, etc. 
