@@ -1,3 +1,4 @@
+Predictive Maintenance.
 This is the continuation of the “Executive Introduction to a Predictive Maintenance program” post, where I provided with an executive introduction to a holistic solution to predict maintenance of field equipment and how the process can be connected to the overall supply chain. In this post I will go elaborate on the components of the overall solution, starting with the Machine Learning algorithms used to forecast failure, present the business insights, and show how to automate back office processes including the creation work orders, alerting maintenance decision makers and coordinating a maintenance crew.
 
 Algorithms
@@ -11,5 +12,5 @@ For this blog I have used 3 algorithms which you can find in the scripts folder 
 
 
 -------------------------
-Note: The data set is a public dataset publish by Microsoft for their Predictive Maintenance template. 
+Note: The data set is a public dataset published by Microsoft for their Predictive Maintenance template. 
 The algorithms where modeled in Python, taken into consideration the R code publicy availble in this template. 
