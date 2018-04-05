@@ -1,6 +1,6 @@
 ## Predictive Maintenance algorithms.
 
-This contains the algorithms modeled for my linked in post [“Executive Introduction to a Predictive Maintenance program”](https://www.linkedin.com/pulse/executive-introduction-predictive-maintenance-program-coronado/), and ["Piloting a Predictive Maintenance Program"] (https://www.linkedin.com/pulse/piloting-holistic-predictive-maintenance-program-rodrigo-coronado/) -  where I provided with an executive introduction to a holistic solution to predict maintenance of field equipment and how the process can be connected to the overall supply chain. 
+This contains the algorithms modeled for my linked in post [“Executive Introduction to a Predictive Maintenance program”](https://www.linkedin.com/pulse/executive-introduction-predictive-maintenance-program-coronado/), and ["Piloting a Predictive Maintenance Program"](https://www.linkedin.com/pulse/piloting-holistic-predictive-maintenance-program-rodrigo-coronado/) -  where I provided with an executive introduction to a holistic solution to predict maintenance of field equipment and how the process can be connected to the overall supply chain. 
 
 ## Algorithms
 
