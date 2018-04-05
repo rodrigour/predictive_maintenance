@@ -9,7 +9,7 @@ Based on the nature of the field equipment and business needs, different forecas
 
 - Remaining Usufull Life. Regression algorithms were used to forecast the remaining usefull life.
 - Forecast over Window 2. Classification algorithms were used to forecast failure in Window 1. 
-- Forecast for Window 1 and Window2. A Multi-classification algorithm was used to forecast miltiple classes - Window 1 and window2.
+- Forecast for Window 1 and Window2. A Multi-classification algorithm was used to forecast miltiple classes - Window 1 and window 2.
 
 I have added some result from testing the regression algorithm into the a Power BI notebook test a visualization. 
 
