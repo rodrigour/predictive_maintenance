@@ -13,8 +13,8 @@ Based on the nature of the field equipment and business needs, different forecas
 - Forecast for Window 1 and Window2. A Multi-classification algorithm was used to forecast miltiple classes - Window 1 and window 2.
 - Libraries.py: Withing the scripts folder, the libraries.py script contains all the funcitions used to Get data, wrangle data, feature engineering, etc. 
 
-I have added some result from testing the regression algorithm into the a Power BI notebook test a visualization. 
+I have added some results from testing the regression algorithm into a Power BI notebook to test an interactive visualization. This notebook can be found inthe apps folder. 
 
 -------------------------
 Note: The data set is a public dataset published by Microsoft for their Predictive Maintenance template. 
-The algorithms where modeled in Python taken into consideration the R code publicy availble in this template. 
+The algorithms were modeled in Python taken into consideration the R code publicy availble in this template. 
