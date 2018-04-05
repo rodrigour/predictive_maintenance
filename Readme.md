@@ -5,7 +5,7 @@ This contains the algorithms modeled for my linked in post [“Executive Introdu
 
 ## Algorithms
 
-Based on the nature of the field equipment and business needs, different forecasting methods can be used. For this example, I used a data set including equipment with 100 sensors and 3 different readings each and modeled 3 algorithms with Python, which you can find in the scripts folder - and the datasets are accesible in the data folder. 
+Based on the nature of the field equipment and business needs, different forecasting methods can be used. For this example, I used a data set including equipment with 26 sensors and 3 different readings each and modeled 3 algorithms with Python, which you can find in the scripts folder - and the datasets are accesible in the data folder. 
 
 
 - Remaining Usefull Life. Regression algorithms were used to forecast the remaining usefull life.
